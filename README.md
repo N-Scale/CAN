@@ -1,4 +1,4 @@
-Ich baue und entwickle Hard- und Software für das Märklin CAN System, weitere Informationen auf  <a href="https://www.stummiforum.de/posting.php?mode=post&f=7#preview"> stummiforum.de </a>
+Ich baue und entwickle Hard- und Software für das Märklin CAN System, weitere Informationen auf  <a href="https://www.stummiforum.de/"> stummiforum.de </a>
 
 Viele Layouts sind Weiterentwicklungen oder Anpassungen an bestehenden Dateien aus dem MaeCAN Projekt.
 Hier möchte ich gerne mein Daten mit euch Teilen damit alle die das Märklin CAN System einsetzen wollen davon profitieren können.
