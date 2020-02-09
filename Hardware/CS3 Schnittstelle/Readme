@@ -1,4 +1,5 @@
-Schnitstelle zwischen dem MaeCAN Projekt und der CS3.
+Schnittstelle zwischen dem CAN Bus und der CS3.
+Die Belegung basiert auf dem MaeCan Projekt von Ixam97 sowie der SRSE2 von GBert
 
 
 Ich versuche die Hardware soweit es geht an eigener Hardware zu testen, jedoch habe ich nur begrenzt 
