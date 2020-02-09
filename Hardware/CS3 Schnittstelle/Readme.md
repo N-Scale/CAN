@@ -2,10 +2,9 @@ Schnittstelle zwischen dem CAN Bus und der CS3.
 Die Belegung basiert auf dem MaeCan Projekt von Ixam97 sowie der SRSE2 von GBert.
 
 Ich versuche die Komponenten an eigener Hardware zu testen, jedoch habe ich nur begrenzt 
-Zugriff auf verschiedene Steuereinheiten. Ich kann also nur begrenzt die Funktionen meiner Hardware testen.
+Zugriff auf verschiedene Steuereinheiten. Ich kann also nur mit meiner Hardware die Funktionen der Komponenten testen.
 Der Nachbau und die Benutzung der Hardware geschieht auf eigene Gefahr, ich hafte nicht für Schäden, die der Anwender oder
-Dritte durch die Verwendung der Hardware verursachen.
-
+Dritte durch die Verwendung verursachen.
 
 Alle Daten sind Sie sind lizensiert unter der <a href="https://creativecommons.org/licenses/by-sa/4.0/de">"Creative Commons Attribution Share-Alike" Lizenz</a> - die eine persönliche und kommerzielle Weiterverwertung erlaubt, solange in angemessener Weise die Urheberschaft erwähnt wird und die abgeleitete Arbeit unter der gleichen Lizenz steht.
 
