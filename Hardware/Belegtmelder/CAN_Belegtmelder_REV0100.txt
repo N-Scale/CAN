@@ -1,9 +1,0 @@
-Stückliste exportiert aus C:/Users/Patrik Laube/OneDrive/06. Elektronik/Platinen/CAN Belegtmelderaufsatz/CAN_Belegtmelder_REV0100.sch am 12.01.2020 22:26
-
-Qty Value    Device     Package      Parts                          Description                                            MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
-2            MA10-1     MA10-1       X1, X2                         PIN HEADER                                                    unknown    unknown   4                     
-1            MA20-1     MA20-1       X3                             PIN HEADER                                                    unknown    unknown                         
-8   100n     C-EUC1206  C1206        C1, C2, C3, C4, C5, C6, C7, C8 CAPACITOR, European symbol                                                                               
-8   33       R-EU_R1206 R1206        R1, R2, R3, R4, R5, R6, R7, R8 RESISTOR, European symbol                                                          41         R          
-8   DBS102G  DBS102G    DBS          B1, B2, B3, B4, B5, B6, B7, B8 Single Phase 1.0 AMP Glass Passivated Bridge Rectifier                             0                     
-2   TLP283-4 TLP283-4   MINI-FLAT-16 OK1, OK2                       TOSHIBA PHOTOCOUPLER GaAs IRED & PHOTO-TRANSISTOR             unknown    unknown   0                     
