@@ -1,0 +1,22 @@
+Stückliste exportiert aus C:/Users/Patrik Laube/OneDrive/06. Elektronik/Platinen/CAN_Basisboard/Basisboard_REV0100.sch am 14.01.2020 22:13
+
+Qty Value         Device                      Package            Parts                   Description                                 MF MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+2                 C-EUC1206                   C1206              C5, C6                  CAPACITOR, European symbol                                                                             
+2                 FE10-1                      FE10               X3, X4                  FEMALE HEADER                                               unknown    unknown   4                     
+1                 FE20-1                      FE20               X6                      FEMALE HEADER                                               unknown    unknown   3                     
+1                 JP1E                        JP1                JP1                     JUMPER                                                                           61                    
+2                 LEDCHIPLED_1206             CHIPLED_1206       POWER, STATUS           LED                                                                                                    
+1                 MA03-2                      MA03-2             X5                      PIN HEADER                                                  unknown    unknown   15                    
+1                 MCP2515SO                   SO-18W             IC3                     MC2515                                                                                                 
+2   100n          C-EUC1206                   C1206              C3, C4                  CAPACITOR, European symbol                                                                             
+2   10k           R-EU_R1206                  R1206              R1, R2                  RESISTOR, European symbol                                                                              
+1   120           R-EU_R1206                  R1206              R3                      RESISTOR, European symbol                                                        41         R          
+2   16M           CRYSTALHC49S                HC49/S             Q1, Q2                  CRYSTAL                                                     1667008    unknown                         
+2   22p           C-EUC1206                   C1206              C1, C2                  CAPACITOR, European symbol                                                                             
+2   680           R-EU_R1206                  R1206              R4, R5                  RESISTOR, European symbol                                                                              
+5   AKL093-06     AKL093-06                   AKL093-06          U$4, U$5, U$6, U$7, U$8                                                                                                        
+1   MCP2551SO8    MCP2551SO8                  SO08               IC2                     CAN Tranceiver Microchip                                                                               
+2   MEBP 8-8G     XRJF-01A-0-D22-020MEBP-8-8G XRJF-01A-0-D2A-010 X1, X2                  RJ45 Modular Buchse, without LED, schielded                                                            
+1   MEGA8-AI      MEGA8-AI                    TQFP32-08          IC1                     MICROCONTROLLER                                ATMEGA8-16AU 9171371    73M8863   11                    
+4   MOUNT-HOLE2.8 MOUNT-HOLE2.8               2,8                H1, H2, H3, H4          MOUNTING HOLE with drill center marker                                                                 
+1   TSR_1-24_     TSR_1-24_                   TSR-1              U1                      TRACO TSR-1 Series                                                                                     
