@@ -1,0 +1,5 @@
+Basisboard für den CAN Bus, Stromversorgung der Module über CAN für kleine Module direkt aus dem Buskabel.
+
+
+Ich versuche die Hardware soweit es geht an eigener Hardware zu testen, jedoch habe ich nur begrenzt 
+Zugriff auf verschiedene Steuereinheiten und Komponeten. Ich kann also nur begrenzt die Funktionen meiner Hardware testen.
