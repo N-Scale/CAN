@@ -1,4 +1,6 @@
 Schnittstelle zwischen dem CAN Bus und der CS3.
+Verbindung über das Märklin 60123 Kabel.
+
 Die Belegung basiert auf dem MaeCan Projekt von Ixam97 sowie der SRSE2 von GBert.
 
 Ich versuche die Komponenten an eigener Hardware zu testen, jedoch habe ich nur begrenzt 
